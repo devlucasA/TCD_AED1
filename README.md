@@ -10,7 +10,7 @@ The program registers sellers and products to be sold. Each product has a catego
 
 ## 🤝 Contributors
 [![brenimcode](https://github.com/brenimcode.png?size=60)](https://github.com/brenimcode "Breno Oliveira Cavalcante on GitHub")
-[![LucasPMartins](https://github.com/LucasPMartins.png?size=60)](https://github.com/LucasPMartins "LucasPMartins on GitHub")
+[![LucasPMartins](https://github.com/LucasPMartins.png?size=30)](https://github.com/LucasPMartins "LucasPMartins on GitHub")
 [![devlucasA](https://github.com/devlucasA.png?size=60)](https://github.com/devlucasA "Lucas Araújo de Oliveira on GitHub")
 
 ## 🛠 Tools:
@@ -26,5 +26,5 @@ The program registers sellers and products to be sold. Each product has a catego
 <p align="center">
 
 </p>
-
+<img src="https://cdn.discordapp.com/attachments/1154793024396742656/1157893098081357894/POWERFUL.png?ex=6534a17b&is=65222c7b&hm=2e6149a7e4b3e50870c6a58a5d9e83d2131b233e5fe49fa0e85171501bc55bda&" width="400" height="400"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fd9050&height=120&section=footer"/>
