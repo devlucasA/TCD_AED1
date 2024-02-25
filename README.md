@@ -9,9 +9,9 @@
 The program registers sellers and products to be sold. Each product has a category, a name, description, unit value, quantity in stock, and appraisal note. Customers are also previously registered, and can access the program (by means of a username/password) to make their purchases. The system stores all orders placed, in order to know which products customers have purchased, and in order to provide reports with sales statistics.
 
 ## 🤝 Contributors
-[![brenimcode](https://github.com/brenimcode.png?size=60)](https://github.com/brenimcode "Breno Oliveira Cavalcante on GitHub")
-[![LucasPMartins](https://github.com/LucasPMartins.png?size=30)](https://github.com/LucasPMartins "LucasPMartins on GitHub")
-[![devlucasA](https://github.com/devlucasA.png?size=60)](https://github.com/devlucasA "Lucas Araújo de Oliveira on GitHub")
+brenimcode, 
+LucasPMartins, 
+devlucasA
 
 ## 🛠 Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
